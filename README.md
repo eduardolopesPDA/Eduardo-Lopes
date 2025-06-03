@@ -1,6 +1,6 @@
 # 👋 iae, eu sou o Eduardo Lopes!
 
-transformando ideias em codigos🧑‍💻
+Transformando ideias em código e construindo soluções inovadoras. Estudando para ser dev full stack🚀
 
 ---
 
