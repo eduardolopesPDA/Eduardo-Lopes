@@ -20,7 +20,7 @@ Atualmente, estou me aprofundando no desenvolvimento full stack com **Node.js, J
 
 ## 🌐 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edulopesdev)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/edulopesdev  
 📫 Email: eduardo2200603@gmail.com
 
 ---
