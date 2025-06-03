@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou o Eduardo Lopes!
+# 👋 iae, eu sou o Eduardo Lopes!
 
-Sou desenvolvedor web com foco em tecnologias modernas de **Front-End e Back-End**. Tenho paixão por transformar ideias em soluções funcionais e bem estruturadas.  
-Atualmente, estou me aprofundando no desenvolvimento full stack com **Node.js, JavaScript e bancos de dados relacionais.**
+transformando ideias em codigos🧑‍💻
 
 ---
 
@@ -20,7 +19,8 @@ Atualmente, estou me aprofundando no desenvolvimento full stack com **Node.js, J
 
 ## 🌐 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/edulopesdev  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edulopesdev) 
+
 📫 Email: eduardo2200603@gmail.com
 
 ---
